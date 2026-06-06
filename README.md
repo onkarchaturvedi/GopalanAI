@@ -1,7 +1,7 @@
 # GopalanAI
 An automated cattle body condition scoring system using ArUco Markers for detection and ResNet50 for classification. This project also secured selection in Smart India Hackathon 2025, a national-level government innovation challenge.
 
-# 🐄 Gopalan AI
+# 🐄 [Gopalan AI](gopalanai.xo.je)
 
 Gopalan AI is an AI-powered cattle analysis system that combines **Deep Learning**, **Computer Vision**, and **Geometric Measurement Techniques** to analyze cattle from images.
 
@@ -174,6 +174,8 @@ Final Explainable Report
 ```
 
 ---
+
+### Visit the AI App now -> [Gopalan AI](gopalanai.xo.je)
 
 # 👨‍💻 Author
 
