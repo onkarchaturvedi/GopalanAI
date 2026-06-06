@@ -1,4 +1,8 @@
 Hello Guys, I am Onkar guiding you towards using Gopalan AI.
 You just have to click three pictures with an aruco marker placed in the picture frame. 
-the aruco marker size should be 20 cm, and the download link of an A4 paper size picture is given here.
+the aruco marker size should be 20 cm, and the file is given in this repo.
 You can download that image and take a print out of that marker and you are ready to go.
+
+Click 3 images of your cattle with gopalan marker clearly visible in the picture from 3 different angles, side view, top view and back view.
+
+GO to our website https://www.gopalanai.fwh.is and upload these 3 images and select the given points are you are ready to see your cattle scoring.
