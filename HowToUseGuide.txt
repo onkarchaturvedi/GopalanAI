@@ -1,0 +1,4 @@
+Hello Guys, I am Onkar guiding you towards using Gopalan AI.
+You just have to click three pictures with an aruco marker placed in the picture frame. 
+the aruco marker size should be 20 cm, and the download link of an A4 paper size picture is given here.
+You can download that image and take a print out of that marker and you are ready to go.
